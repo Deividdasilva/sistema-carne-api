@@ -28,7 +28,7 @@ docker-compose up -d
 - **API Backend**: [http://localhost:8000](http://localhost:8000)
 - **Banco**: [http://localhost:8080](http://localhost:8080)
 - **Endpoint para criação de carnês**: [POST][http://localhost:8000/carne](http://localhost:8000/carne)
-- **Endpoint para consulta de parcelas**: [GET][http://localhost:8000/carne](http://localhost:8000/carne/{id})
+- **Endpoint para consulta de parcelas**: [GET][http://localhost:8000/carne/{id}](http://localhost:8000/carne/{id})
 
 
 ### Estrutura do Projeto
